@@ -6,7 +6,7 @@
 $ . dev/bin/activate
 (dev) $ mkdir logrotate
 (dev) $ cd logrotate/
-(dev) $ pip install curator elasticsearch requests_aws4auth -t ./
+(dev) $ pip install elasticsearch-curator requests_aws4auth -t ./
 
 ...
 
