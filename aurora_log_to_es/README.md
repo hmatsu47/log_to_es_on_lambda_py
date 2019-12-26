@@ -10,11 +10,6 @@ $ . dev/bin/activate
 
 ...
 
-Installing collected packages: urllib3, certifi, idna, chardet, requests, requests-aws4auth
-Successfully installed certifi-2019.11.28 chardet-3.0.4 idna-2.8 requests-2.22.0 requests-aws4auth-0.9 urllib3-1.25.7
-
-...
-
 (dev) $ rm -rf *.dist-info
 (dev) $ vi auroralog.py
 
