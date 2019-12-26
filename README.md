@@ -9,8 +9,8 @@
 
 の Lambda Function の Script を
 
-  - Python 3.8 対応
-	- Elasticsearch Service 6.8 対応
+ - Python 3.8 対応
+ - Elasticsearch Service 6.8 対応
 
 にするものです。
 
