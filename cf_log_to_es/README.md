@@ -3,6 +3,7 @@
 - Create zip file
 
 ```sh:create_zip_file
+$ python3 -m venv dev
 $ . dev/bin/activate
 (dev) $ mkdir cf_log_to_es_s3
 (dev) $ cd cf_log_to_es_s3/
