@@ -3,6 +3,7 @@
 - Create zip file
 
 ```sh:create_zip_file
+$ python3 -m venv dev
 $ . dev/bin/activate
 (dev) $ mkdir logrotate
 (dev) $ cd logrotate/
