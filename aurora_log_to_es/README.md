@@ -16,7 +16,7 @@ $ . dev/bin/activate
 
 ...
 
-(dev) $ zip -r ../auroralog.zip
+(dev) $ zip -r ../auroralog.zip *
 
 ...
 ```
