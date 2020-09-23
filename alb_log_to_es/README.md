@@ -16,7 +16,7 @@ $ . dev/bin/activate
 
 ...
 
-(dev) $ zip -r ../alblog.zip
+(dev) $ zip -r ../alblog.zip *
 
 ...
 ```
