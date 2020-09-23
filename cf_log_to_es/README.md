@@ -16,7 +16,7 @@ $ . dev/bin/activate
 
 ...
 
-(dev) $ zip -r ../cflog.zip
+(dev) $ zip -r ../cflog.zip *
 
 ...
 ```
