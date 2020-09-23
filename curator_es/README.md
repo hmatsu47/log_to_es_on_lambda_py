@@ -16,7 +16,7 @@ $ . dev/bin/activate
 
 ...
 
-(dev) $ zip -r ../logrotate.zip
+(dev) $ zip -r ../logrotate.zip *
 
 ...
 ```
